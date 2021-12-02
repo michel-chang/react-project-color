@@ -47,7 +47,6 @@ function App() {
             />
           )
         })}
-        <h7>Created by Michel Chang</h7>
       </section>
     </>
   )
